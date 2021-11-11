@@ -13,7 +13,7 @@
 - 🏢 I'm currently working at **Refinitv (LSEG)**
 - ⚙️ I use daily: `.tsx`, `.js`, `.ts`, `.css`, `.py`, `.ipynb`
 - 🌍 I'm mostly active within the **Ethereum Development Community**
-- 💅 Hackathon Projects: Dexter Finance, [dexterdashboard.vercel.app/](https://dexterdashboard.vercel.app/), [tx-drip.vercel.app/](https://tx-drip.vercel.app/)
+- 💅 Hackathon Projects: Dexter Finance, [dexterdashboard.vercel.app](https://dexterdashboard.vercel.app/), Tx.Drip, [tx-drip.vercel.app](https://tx-drip.vercel.app/)
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **Ethereum**, **Typescript**, **Python**, **development**, **design thinking**
 - 📫 Reach me: [twitter.com/jackburrus](https://twitter.com/jackburrus)
