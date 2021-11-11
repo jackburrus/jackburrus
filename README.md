@@ -4,13 +4,13 @@
 
 ##### NOW
 
-- 💼 Currently working for Refinitiv as a Python automation engineer.
+- 💼 Currently working for Refinitiv as a Python Automation Engineer.
 - 🏃🏼‍♂️ Competing in Ethereum hackathons.
 - 🐞 Taking a walk outside to think through a bug I can't fix.
 
 ##### BIO
 
-- 🏢 I'm currently working at **Refinitv (LSEG)**
+- 🏢 I'm currently working at **Refinitv (London Stock Exchange)**
 - ⚙️ I use daily: `.tsx`, `.js`, `.ts`, `.css`, `.py`, `.ipynb`
 - 🌍 I'm mostly active within the **Ethereum Development Community**
 - 💅 Hackathon Projects: Dexter Finance, [dexterdashboard.vercel.app](https://dexterdashboard.vercel.app/), Tx.Drip, [tx-drip.vercel.app](https://tx-drip.vercel.app/)
