@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on React Native and Expo
+- 🔭 I’m currently working on Web3 Development with Typescript, Ethers, and NextJS.
 
 
 
