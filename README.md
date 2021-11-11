@@ -1,19 +1,20 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Web3 Development with Typescript, Ethers, and NextJS.
 
+#### I'm a Python Automation Specialist and Ethereum Developer working in Boise, Idaho.
 
+##### NOW
 
-<!--
-**jackburrus/jackburrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Currently working for Refinitiv as a Python automation engineer.
+- 🏃🏼‍♂️ Competing in Ethereum hackathons.
+- 🐞 Taking a walk outside to think through a bug I can't fix.
 
-Here are some ideas to get you started:
+##### BIO
 
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I'm currently working at **Refinitv (LSEG)**
+- ⚙️ I use daily: `.tsx`, `.js`, `.ts`, `.css`, `.py`, `.ipynb`
+- 🌍 I'm mostly active within the **Ethereum Development Community**
+- 💅 Hackathon Projects: Dexter Finance, [dexterdashboard.vercel.app/](https://dexterdashboard.vercel.app/), [tx-drip.vercel.app/](https://tx-drip.vercel.app/)
+- 🌱 Learning all about **Open Source**
+- 💬 Ping me about **Ethereum**, **Typescript**, **Python**, **development**, **design thinking**
+- 📫 Reach me: [twitter.com/jackburrus](https://twitter.com/jackburrus)
+- ⛰ Fun fact: I love backcountry backpacking! 
