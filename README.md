@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Python Automation Specialist and Ethereum Developer working in Boise, Idaho.
+#### I'm a Full Stack and Ethereum Developer working in Boise, Idaho.
 
 ##### NOW
 
