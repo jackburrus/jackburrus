@@ -10,6 +10,8 @@ Full-stack engineer exploring AI and developer tooling. Previously built DeFi pr
 
 - **[snug-ai](https://github.com/jackburrus/snug-ai)** — A TypeScript library that intelligently packs context into an LLM's context window. Prioritizes content by importance, applies lost-in-the-middle placement based on attention research, and gives full visibility into what was included, dropped, and why.
 
+- **[dotpack](https://dotpack.dev)** — A configuration package that gives AI coding tools (Claude Code, Cursor, Gemini CLI) pre-built agents, slash commands, and auto-detected skills across all your projects.
+
 ---
 
 [Twitter](https://twitter.com/jackburrus)
